@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 580px;
+    box-shadow: 0 0 3px rgba(0,0,0,0.1);
+}
+
+table thead tr {
+    background: #00b2ff;
+    color: #fff;
+    text-align: left;
+    font-weight: bold;
+}
+
+table th {
+    padding: 10px;
+
+}
+
+table td {
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+
+}
+
